@@ -23,6 +23,5 @@ public class usaAbstractAnimlas {
         delfino.mangia();
         delfino.verso();
 
-
     }
 }
